@@ -48,9 +48,8 @@ It supports user registration, recipe creation with images, admin controls, and 
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/CookingLovers.git
-   cd CookingLovers
-
+   git clone https://github.com/IT-Mzk/CookingLoversApp.git
+   cd CookingLoversApp
 
 
 Mở SQL Server và chạy tập lệnh CookingLoversDB.sql được cung cấp để tạo và khởi tạo cơ sở dữ liệu.
