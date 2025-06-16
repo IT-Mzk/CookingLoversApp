@@ -1,0 +1,9 @@
+C:\Users\pduc0\source\repos\CookingLovers.DAL\bin\Debug\CookingLovers.DAL.dll
+C:\Users\pduc0\source\repos\CookingLovers.DAL\bin\Debug\CookingLovers.DAL.pdb
+C:\Users\pduc0\source\repos\CookingLovers.DAL\bin\Debug\CookingLovers.Models.dll
+C:\Users\pduc0\source\repos\CookingLovers.DAL\bin\Debug\CookingLovers.Models.pdb
+C:\Users\pduc0\source\repos\CookingLovers.DAL\obj\Debug\CookingLovers.DAL.csproj.AssemblyReference.cache
+C:\Users\pduc0\source\repos\CookingLovers.DAL\obj\Debug\CookingLovers.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pduc0\source\repos\CookingLovers.DAL\obj\Debug\CookingL.7367C162.Up2Date
+C:\Users\pduc0\source\repos\CookingLovers.DAL\obj\Debug\CookingLovers.DAL.dll
+C:\Users\pduc0\source\repos\CookingLovers.DAL\obj\Debug\CookingLovers.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\pduc0\source\repos\CookingLovers.Models\bin\Debug\CookingLovers.Models.dll
+C:\Users\pduc0\source\repos\CookingLovers.Models\bin\Debug\CookingLovers.Models.pdb
+C:\Users\pduc0\source\repos\CookingLovers.Models\obj\Debug\CookingLovers.Models.csproj.AssemblyReference.cache
+C:\Users\pduc0\source\repos\CookingLovers.Models\obj\Debug\CookingLovers.Models.csproj.CoreCompileInputs.cache
+C:\Users\pduc0\source\repos\CookingLovers.Models\obj\Debug\CookingLovers.Models.dll
+C:\Users\pduc0\source\repos\CookingLovers.Models\obj\Debug\CookingLovers.Models.pdb
