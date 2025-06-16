@@ -51,7 +51,7 @@ It supports user registration, recipe creation with images, admin controls, and 
    git clone https://github.com/yourusername/CookingLovers.git
    cd CookingLovers
 
-   Thiết lập cơ sở dữ liệu
+
 
 Mở SQL Server và chạy tập lệnh CookingLoversDB.sql được cung cấp để tạo và khởi tạo cơ sở dữ liệu.
 Đảm bảo chuỗi kết nối trong RecipeRepository.cs khớp với cài đặt SQL Server của bạn.
