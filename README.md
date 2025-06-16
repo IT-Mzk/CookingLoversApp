@@ -68,6 +68,7 @@ Nhấn F5 hoặc nhấp vào Start để khởi chạy.
 Tài khoản quản trị mặc định
 
 Tên người dùng: Mindthief
+
 Mật khẩu: 06042004
 
 
@@ -77,12 +78,14 @@ Máy chủ SQL
 Newtonsoft.Json
 API TheMealDB
 Phiên bản Visual Studio 2022
+
 🌐 Tích hợp API
 Dự án này sử dụng API TheMealDB để tìm kiếm bữa ăn theo thời gian thực:
 
 Tìm kiếm theo từ khóa
 Hiển thị hướng dẫn và thành phần
 Thêm bữa ăn vào cơ sở dữ liệu công thức nấu ăn địa phương của bạn
+
 👤 Tác giả
 DUC MANH PHAM, DUY MAC
 Sinh viên CNTT tại Đại học Công nghệ thông tin và Quản lý, Rzeszów
